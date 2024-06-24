@@ -20,8 +20,6 @@
 </p>
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaroop1232010" alt="swaroop1232010" /></a> </p>
-
 - 🔭 I’m currently working at [Ensar Solutions](https://www.ensarsolutions.com/)
 
 - 👨‍💻 All of my projects are available at --
