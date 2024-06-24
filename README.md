@@ -76,4 +76,9 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql" width="40" height="40" />
   </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/docker-library/docs/c408469abbac35ad1e4a50a6618836420eb9502e/mysql/logo.png"
+      alt="mysql" width="40" height="40" />
+  </a>
 </p>
