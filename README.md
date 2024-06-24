@@ -20,7 +20,7 @@
 </p>
 <br>
 
-- 🔭 I’m currently working at [Research Improving People's Lives]([https://www.ensarsolutions.com/](https://www.ensarsolutions.com/)
+- 🔭 I’m currently working at [Ensar Solutions](https://www.ensarsolutions.com/)
 
 - 👨‍💻 All of my projects are available at --
 
