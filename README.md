@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working at [Ensar Solutions](https://www.ensarsolutions.com/)
 
-- 👨‍💻 All of my projects are available at --
+- 👨‍💻 All of my projects are available at [GIT](https://github.com/swaroop1232010?tab=repositories)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@swaroop1232010/)
 
