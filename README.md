@@ -1,38 +1,77 @@
-<h1 align="center">Hi 👋, I'm Swaroop Siddareddy</h1>
-<h3 align="center">A Senior Full-Stack Engineer passionate about coding, and making client ideas come true.</h3>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/4708484/117501914-bee53600-af4c-11eb-8523-6ace0ea11d3e.png"
-    alt="avatar" width="140" height="140" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=2E7D5B&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B+I'm+Swaroop+Reddy;Senior+Full-Stack+Engineer;Java+%C2%B7+Spring+Boot+%C2%B7+React;Building+AI+into+real+products+(RAG+%C2%B7+LLMs)" alt="Typing intro" />
+
+<p>
+  <a href="https://www.linkedin.com/in/swaroop-reddy-55269b145/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@swaroop1232010"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://swaroop1232010.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-2E7D5B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://swaroop1232010.github.io/portfolio/assets/doc/Swaroop_Resume_Fullstack.pdf"><img src="https://img.shields.io/badge/Resume-555555?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
+</p>
+
 </div>
 
+## 👨‍💻 About me
 
-<br>
-<p align="center">
-<!--   <a href="https://github.com/swaroop1232010/" target="_blank">
-    <img alt="Github"
-      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a> -->
-  <a href="https://www.linkedin.com/in/swaroop-reddy-55269b145/" target="_blank">
-    <img alt="Linkedin"
-      src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-<br>
+I'm a **Senior Full-Stack Engineer** at [Ensar Solutions](https://www.ensarsolutions.com/). I build production apps end to end — **Spring Boot & Kafka** on the back, **React / Next.js** on the front — and lately I'm focused on bringing **AI features (RAG, LLMs, agents)** into real products, measured properly instead of hyped.
 
-- 🔭 I’m currently working at [Ensar Solutions](https://www.ensarsolutions.com/)
+- 🔭 **Now:** RAG quality with **Spring AI 2.1** — rerankers, decision models, MCP
+- ✍️ **Writing:** hands-on, measured articles on [Medium](https://medium.com/@swaroop1232010)
+- 🤝 **Open to:** full-stack + AI engineering collaborations and freelance work
 
-- 👨‍💻 All of my projects are available at [GIT](https://github.com/swaroop1232010?tab=repositories)
+## 🧪 Latest experiment
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@swaroop1232010/)
+> **[I Tested Spring AI 2.1's New Reranker Locally. The Small Model Made My RAG Worse.](https://medium.com/@swaroop1232010/i-tested-spring-ai-2-1s-new-reranker-locally-the-small-model-made-my-rag-worse-ff970ce0de65)**
+>
+> 20 labelled questions, fully local (Ollama + pgvector):
+> vector search **70%** → default reranker **25%** 😬 → 2.7B reranker **100%** ✅
+> &nbsp;&nbsp;📦 [Code & raw results](https://github.com/swaroop1232010/spring-ai-reranker-demo)
 
-- 📄 [My Resume](https://swaroop1232010.github.io/portfolio/assets/doc/Swaroop_Resume_Fullstack.pdf) || [My Portfolio](https://swaroop1232010.github.io/portfolio/)
+## 🚀 Featured projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p> <br> <br>
+| Project | What it is | Stack |
+|---|---|---|
+| [**spring-ai-reranker-demo**](https://github.com/swaroop1232010/spring-ai-reranker-demo) | Measuring Spring AI 2.1's reranker on a local RAG app — with an eval harness and raw results | Spring Boot 4 · Spring AI · pgvector · Ollama |
+| [**staff_management**](https://github.com/swaroop1232010/staff_management) | Staff management web app | TypeScript |
+| [**spring_data_redis_cache**](https://github.com/swaroop1232010/spring_data_redis_cache) | Redis caching in Spring Boot, step by step | Java · Spring Boot · Redis |
+| [**business-card-extractor**](https://github.com/swaroop1232010/business-card-extractor) | Pulls contact details out of business-card images | Python |
+| [**Chat_with_CSV_Huggingface**](https://github.com/swaroop1232010/Chat_with_CSV_Huggingface) | Ask questions about a CSV file in plain English | Python · Hugging Face |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swaroop1232010&" alt="swaroop1232010" /></p>
+## 📝 Latest articles
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swaroop1232010&show_icons=true&locale=en&layout=compact" alt="swaroop1232010" /></p>
+<!-- BLOG-POST-LIST:START -->
+- [I Tested Spring AI 2.1's New Reranker Locally. The Small Model Made My RAG Worse.](https://medium.com/@swaroop1232010/i-tested-spring-ai-2-1s-new-reranker-locally-the-small-model-made-my-rag-worse-ff970ce0de65)
+- [Building a Real-Time Delivery Tracking System Using Kafka with Spring Boot and React JS](https://medium.com/@swaroop1232010/building-a-real-time-delivery-tracking-system-using-kafka-with-spring-boot-and-react-js-6aa2779081f6)
+- [Implementing Redis Caching in Spring Boot with Gradle: A Step-by-Step Guide](https://medium.com/@swaroop1232010/implementing-redis-caching-in-spring-boot-with-gradle-a-step-by-step-guide-876884df0bb6)
+<!-- BLOG-POST-LIST:END -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swaroop1232010&show_icons=true&locale=en" alt="swaroop1232010" /></p>
+<sub>Updated automatically every day from Medium.</sub>
+
+## 🛠️ Tech stack
+
+**Backend** &nbsp;
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,mysql,mongodb,nodejs&theme=light" alt="Backend" />
+
+**Frontend** &nbsp;
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux&theme=light" alt="Frontend" />
+
+**AI** &nbsp;
+<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring AI"/>
+<img src="https://img.shields.io/badge/RAG-2E7D5B?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+<img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+
+**Cloud & DevOps** &nbsp;
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,firebase&theme=light" alt="Cloud and DevOps" />
+
+## 📊 GitHub stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=swaroop1232010&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=2E7D5B&icon_color=2E7D5B" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=swaroop1232010&hide_border=true&ring=2E7D5B&fire=2E7D5B&currStreakLabel=2E7D5B" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <sub>⭐ If something here helped you, a star or a follow is always appreciated.</sub>
+</div>
