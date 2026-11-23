@@ -65,11 +65,10 @@ I'm a **Senior Full-Stack Engineer** at [Ensar Solutions](https://www.ensarsolut
 **Cloud & DevOps** &nbsp;
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,firebase&theme=light" alt="Cloud and DevOps" />
 
-## 📊 GitHub stats
+## 📊 What I code in
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=swaroop1232010&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=2E7D5B&icon_color=2E7D5B" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=swaroop1232010&hide_border=true&ring=2E7D5B&fire=2E7D5B&currStreakLabel=2E7D5B" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaroop1232010&layout=compact&hide_border=true&langs_count=8&title_color=2E7D5B" alt="Top languages" />
 </div>
 
 <div align="center">
