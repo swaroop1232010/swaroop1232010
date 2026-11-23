@@ -16,5 +16,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@swaroop1232010"
-          max_post_count: 5
+          max_post_count: 4   # 5th-newest is the off-topic coffee post; raise this once you've published more tech articles
           commit_message: "Update latest Medium articles"
