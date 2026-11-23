@@ -65,12 +65,6 @@ I'm a **Senior Full-Stack Engineer** at [Ensar Solutions](https://www.ensarsolut
 **Cloud & DevOps** &nbsp;
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,firebase&theme=light" alt="Cloud and DevOps" />
 
-## 📊 What I code in
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaroop1232010&layout=compact&hide_border=true&langs_count=8&title_color=2E7D5B" alt="Top languages" />
-</div>
-
 <div align="center">
   <sub>⭐ If something here helped you, a star or a follow is always appreciated.</sub>
 </div>
