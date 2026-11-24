@@ -40,9 +40,10 @@ I'm a **Senior Full-Stack Engineer** at [Ensar Solutions](https://www.ensarsolut
 ## 📝 Latest articles
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested Spring AI 2.1's New Reranker Locally. The Small Model Made My RAG Worse.](https://medium.com/@swaroop1232010/i-tested-spring-ai-2-1s-new-reranker-locally-the-small-model-made-my-rag-worse-ff970ce0de65)
-- [Building a Real-Time Delivery Tracking System Using Kafka with Spring Boot and React JS](https://medium.com/@swaroop1232010/building-a-real-time-delivery-tracking-system-using-kafka-with-spring-boot-and-react-js-6aa2779081f6)
-- [Implementing Redis Caching in Spring Boot with Gradle: A Step-by-Step Guide](https://medium.com/@swaroop1232010/implementing-redis-caching-in-spring-boot-with-gradle-a-step-by-step-guide-876884df0bb6)
+- [I Tested Spring AI 2.1’s New Reranker Locally. The Small Model Made My RAG Worse.](https://medium.com/@swaroop1232010/i-tested-spring-ai-2-1s-new-reranker-locally-the-small-model-made-my-rag-worse-ff970ce0de65?source=rss-95bdc513a8ae------2)
+- [Building a Real-Time Delivery Tracking System Using Kafka with Spring Boot and React JS](https://medium.com/@swaroop1232010/building-a-real-time-delivery-tracking-system-using-kafka-with-spring-boot-and-react-js-6aa2779081f6?source=rss-95bdc513a8ae------2)
+- [Implementing Redis Caching in Spring Boot with Gradle: A Step-by-Step Guide](https://medium.com/@swaroop1232010/implementing-redis-caching-in-spring-boot-with-gradle-a-step-by-step-guide-876884df0bb6?source=rss-95bdc513a8ae------2)
+- [Step-by-Step Guide to Setting Up SonarQube for Your Java Spring Boot Project on Windows.](https://medium.com/@swaroop1232010/step-by-step-guide-to-setting-up-sonarqube-for-your-java-spring-boot-project-on-windows-8f062498751a?source=rss-95bdc513a8ae------2)
 <!-- BLOG-POST-LIST:END -->
 
 <sub>Updated automatically every day from Medium.</sub>
